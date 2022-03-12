@@ -1,0 +1,37 @@
+# a = int(input())
+# z = a * 2
+# print(a ,"*" ,2 ,"=" ,z)
+
+# a = int(input())
+# b = int(input())
+# z = a * b
+# x = a / b
+# print(a ,"*" ,b ,"=" ,z)
+# print(a ,"/" ,b ,"=" ,x)
+
+# a = float(input())
+# b = 91.44
+# z = a * b
+# print(a,"yard =",z,"cm")
+
+# a = input()
+# b = input()
+# c = "&"
+# print(a,"and",b)
+# print(a+c+b)
+
+# h = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+# a = int(input())
+
+# a = ("dog")
+# b = ("cat")
+# c = ("chick")
+# h = int(input())
+# if h == 1:
+#     print(a)
+# elif h == 2:
+#     print(b)
+# elif h == 3:
+#     print(c)
+# else:
+#     print("없음")
